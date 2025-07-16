@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
 
   spec.dependency("LiveKitWebRTC", "= 125.6422.33")
   spec.dependency("SwiftProtobuf")
-  spec.dependency("Logging", "= 1.5.4")
+  spec.dependency("Logging", "= 1.4.0")
   spec.dependency("DequeModule", "= 1.1.4")
   spec.dependency("OrderedCollections", " = 1.1.4")
 
